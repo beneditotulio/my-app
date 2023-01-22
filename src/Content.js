@@ -5,7 +5,7 @@ import product3 from './assets/img/product-3.jpg';
 import product4 from './assets/img/product-4.jpg';
 import product5 from './assets/img/product-5.jpg';
 
-const Main = () => {
+const Content = () => {
   return (
     <main id="main" class="main">
 
@@ -656,4 +656,4 @@ const Main = () => {
   );
 };
 
-export default Main;
+export default Content;
